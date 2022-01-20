@@ -6,7 +6,6 @@ i<form action="action_page.php">
      
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
-    <br>
     
     <label for="mobile"><b>Enter mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
@@ -34,5 +33,6 @@ i<form action="action_page.php">
    <h1> Thankyou, Happy Learning </h1>
 
 # adding comment thats it no change 
+# removed break after name
   
 </form>
